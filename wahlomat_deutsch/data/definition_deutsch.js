@@ -69,7 +69,7 @@ const fileQuestions = "Stupa_Fragen.csv";
 
 //	1.2 ANZAHL der FRAGEN / 1.2 NUMBER of QUESTIONS
 
-const intQuestions = 19;
+const intQuestions = 18;
 
 
 // 	--------------------------------------------------------------------
@@ -94,7 +94,7 @@ const intQuestions = 19;
  	1.3. PARTIES, PARTY-INFORMATION and ANSWERS
 */
 
-const fileAnswers = "Obsthausen_Parteien.csv";
+const fileAnswers = "Stupa_Listen.csv";
 
 /*
  	1.5. BILDGROESSE des PARTEILOGOS (am Ende)
@@ -146,7 +146,7 @@ const descriptionHeading2 = "";
 
 // 	1.6.4. Kurzer Text um was es bei der Wahl geht / 1.6.3. Short (descriptive) text on what's the election about
 
-const descriptionExplanation = "Vom 10.06.24 bis zum 14.06.24 findet die Wahl des Studierendenparlaments der Universität Duisburg-Essen statt. Sie k&ouml;nnen sich hier alle kandidierenden Listen anschauen und miteinander vergleichen. Dies ist <b>keine Wahlempfehlung</b>, sondern ein Informationsangebot zu Wahlen! <br /> Zur Auswahl stehen vier Listen mit unterschiedlichen Meinungen zu verschiedenen aktuellen Themen.";
+const descriptionExplanation = "Vom 30.06.25 bis zum 04.07.25 findet die Wahl des Studierendenparlaments der Universität Duisburg-Essen statt. Sie k&ouml;nnen sich hier alle kandidierenden Listen anschauen und miteinander vergleichen. Dies ist <b>keine Wahlempfehlung</b>, sondern ein Informationsangebot zu Wahlen! <br /> Zur Auswahl stehen acht Listen mit unterschiedlichen Meinungen zu verschiedenen aktuellen Themen.";
 
 
 // 	--------------------------------------------------------------------

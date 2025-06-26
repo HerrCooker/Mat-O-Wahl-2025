@@ -62,14 +62,14 @@
 	e.g. "Airport","The airport shall be expanded."
 */
 
-const fileQuestions = "Stupa_Fragen.csv";
+//const fileQuestions = "Stupa_Fragen.csv";
 
 
 // 	--------------------------------------------------------------------
 
 //	1.2 ANZAHL der FRAGEN / 1.2 NUMBER of QUESTIONS
 
-const intQuestions = 19;
+//const intQuestions = 18;
 
 
 // 	--------------------------------------------------------------------
@@ -94,7 +94,7 @@ const intQuestions = 19;
  	1.3. PARTIES, PARTY-INFORMATION and ANSWERS
 */
 
-const fileAnswers = "Stupa_Listen.csv";
+//const fileAnswers = "Obsthausen_Parteien.csv";
 
 /*
  	1.5. BILDGROESSE des PARTEILOGOS (am Ende)

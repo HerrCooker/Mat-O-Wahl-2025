@@ -2,9 +2,9 @@
 
 // Buttons
 var TEXT_START = "Los geht's!"
-var TEXT_VOTING_PRO = "Ja"
+var TEXT_VOTING_PRO = "Stimme zu"
 var TEXT_VOTING_NEUTRAL = "Enthaltung"
-var TEXT_VOTING_CONTRA = "Nein"
+var TEXT_VOTING_CONTRA = "Stimme nicht zu"
 var TEXT_VOTING_SKIP = "Überspringen"
 var TEXT_VOTING_DOUBLE = "2x"
 

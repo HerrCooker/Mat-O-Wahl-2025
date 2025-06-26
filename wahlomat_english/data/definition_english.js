@@ -69,7 +69,7 @@ const fileQuestions = "Stupa_Questions.csv";
 
 //	1.2 ANZAHL der FRAGEN / 1.2 NUMBER of QUESTIONS
 
-const intQuestions = 19;
+const intQuestions = 18;
 
 
 // 	--------------------------------------------------------------------
@@ -94,7 +94,7 @@ const intQuestions = 19;
  	1.3. PARTIES, PARTY-INFORMATION and ANSWERS
 */
 
-const fileAnswers = "Obsthausen_Parteien.csv";
+const fileAnswers = "Stupa_Answers.csv";
 
 /*
  	1.5. BILDGROESSE des PARTEILOGOS (am Ende)
