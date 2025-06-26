@@ -94,7 +94,7 @@ const intQuestions = 18;
  	1.3. PARTIES, PARTY-INFORMATION and ANSWERS
 */
 
-const fileAnswers = "Stupa_Listen.csv";
+const fileAnswers = "Stupa_Antworten.csv";
 
 /*
  	1.5. BILDGROESSE des PARTEILOGOS (am Ende)

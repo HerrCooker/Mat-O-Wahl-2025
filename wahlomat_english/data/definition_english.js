@@ -146,7 +146,7 @@ const descriptionHeading2 = "";
 
 // 	1.6.4. Kurzer Text um was es bei der Wahl geht / 1.6.3. Short (descriptive) text on what's the election about
 
-const descriptionExplanation = "The election of the student parliament at the University of Duisburg-Essen will take place from June 10, 2024 to June 14, 2024. You can look at all the candidate lists here and compare them with each other. This is <b>not an election recommendation</b>, but rather an information offer about elections! <br /> There are four lists to choose from with different opinions on various current topics.";
+const descriptionExplanation = "The election of the student parliament at the University of Duisburg-Essen will take place from June 30th 2025 to July 4th 2025. You can look at all the candidate lists here and compare them with each other. This is <b>not an election recommendation</b>, but rather an information offer about elections! <br /> There are eight lists to choose from with different opinions on various current topics.";
 
 
 // 	--------------------------------------------------------------------
@@ -196,7 +196,7 @@ const imprintGeneral = '<div class="entry-content wp-block-post-content has-glob
 	'<h4 class="wp-block-heading">Anbieterkennzeichnung</h4>\n' +
 	'<p class="has-medium-font-size">Allgemeiner Studierendenausschuss (AStA)<br>Universität Duisburg-Essen<br>Universitätsstraße 2<br>45141 Essen</p>\n' +
 	'<h4 class="wp-block-heading">Vorsitz</h4>\n' +
-	'<p class="has-medium-font-size">Frauke Pohlschmidt und Berfin Celik</p>\n' +
+	'<p class="has-medium-font-size">Berfin Celik</p>\n' +
 	'<h4 class="wp-block-heading">Haftungsausschluss</h4>\n' +
 	'<p class="has-medium-font-size">Die veröffentlichten Links werden mit größtmöglicher Sorgfalt recherchiert und zusammengestellt. Wir haben keinen Einfluss auf die aktuelle und zukünftige Gestaltung und auf die Inhalte der verlinkten Seiten. Wir sind nicht für den Inhalt der verknüpften Seiten verantwortlich und machen uns den Inhalt nicht zu eigen.</p>\n' +
 	'<p class="has-medium-font-size">Für illegale, fehlerhafte oder unvollständige Inhalte sowie für Schäden, die durch die Nutzung oder Nichtnutzung der Informationen entstehen, haftet allein der Anbieter der Webseite, auf die verwiesen wird. Die Haftung desjenigen, der lediglich auf die Veröffentlichung durch einen Link hinweist, ist ausgeschlossen.</p>\n' +
