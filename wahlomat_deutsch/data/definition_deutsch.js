@@ -232,7 +232,7 @@ const imprintVATid = `Umsatzsteuer-Identifikations-Nummer (USt-Id-Nr): DE1641426
 //	(optional) Redaktion: Person(en), die die Fragen ausgearbeitet hat
 //	(optional) Editor: Person(s), who worked on the questions
 
-const imprintEditors = `<p>Jan Koch</p>`;
+const imprintEditors = `<p>Moritz Karrer, Jan Koch</p>`;
 
 
 //	1.7.B.6
