@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="extras">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extras/data_fruitville.zip!/" />
+      <root url="jar://$PROJECT_DIR$/extras/data_obsthausen.zip!/" />
+      <root url="jar://$PROJECT_DIR$/extras/data_springfield.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
