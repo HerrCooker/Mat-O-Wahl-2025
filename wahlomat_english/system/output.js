@@ -167,7 +167,7 @@ function fnShowQuestionNumber(questionNumber)
 
 		// Fragen ausblenden und neue Frage einblenden - nur zur besseren Visualisierung
 		$("#sectionShowQuestions").fadeOut(300).hide();		
-			$("#showQuestionsHeader").empty().append("<h2>"+arQuestionsShort[questionNumber]+"</h2>");
+			$("#showQuestionsHeader").empty().append("<h3>"+arQuestionsShort[questionNumber]+"</h3>");
 			$("#showQuestionsQuestion").empty().append(arQuestionsLong[questionNumber]);			
 		$("#sectionShowQuestions").fadeIn(300);
 
